@@ -1,6 +1,9 @@
 # GetPermission-Library
 Permission manager for android to ease with future projects development. The library has various options including dialogbox permissions, keep track on user's preferences and routing user to app settings in the smartphone.
 
+## Library Demo App
+Click [here](https://github.com/DaniKoza/GetPermissionDemo).
+
 ## Integration
 Add it in your root build.gradle at the end of repositories:
 ```Java
